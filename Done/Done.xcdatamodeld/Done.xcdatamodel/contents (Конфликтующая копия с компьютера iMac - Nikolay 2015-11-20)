@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="15C47a" minimumToolsVersion="Xcode 4.3">
+    <entity name="Model_base" representedClassName="Model_base" syncable="YES">
+        <attribute name="autor_base" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_base" attributeType="String" syncable="YES"/>
+        <attribute name="song_base" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Model_base" positionX="-63" positionY="-18" width="128" height="88"/>
+    </elements>
+</model>
